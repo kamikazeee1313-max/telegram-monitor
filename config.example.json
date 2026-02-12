@@ -1,0 +1,9 @@
+json name=config.example.json
+{
+    "API_ID": "YOUR_API_ID",
+    "API_HASH": "YOUR_API_HASH",
+    "TARGET_PHONE": "+989123456789",
+    "CHECK_INTERVAL": 10,
+    "ENABLE_SOUND": false,
+    "ENABLE_DESKTOP_NOTIFICATION": false
+}
